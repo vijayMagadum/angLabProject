@@ -1,0 +1,88 @@
+
+.navbar-brand{
+    color:white;
+    font-size:30px;
+    margin-left: 10px;
+}
+.setBgColor{
+    background-color:rgb(236, 91, 168);
+    margin-left: 0px;
+    margin-right:0px;
+    margin-top: 10px;   
+}
+.btnClass{
+    float: right;
+    background-color: aliceblue;
+    color: black;
+    font-size:17px;
+    border-color:rgb(236, 91, 168);
+    margin-right: 10px;
+    padding:10px ;
+}
+.tableCss{
+    border: 0px solid grey;
+    margin-left: 80px;
+    margin-top: 15px;
+    padding: 15px;
+
+}
+.button{
+    border-radius: 10px;
+    height: 10px;
+    
+}
+.card-table{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: none;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: .25rem;
+    text-align: center;
+}
+.center .btn{
+    font-size: 14px !important;
+    margin-top: 20px !important;
+    font-weight:400;
+    padding: 15px 72px;
+    border-radius:3px !important;
+}
+.center{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+
+td,
+th {
+  width: 18%;
+}
+
+.docs-example-viewer-title-spacer {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  width: 40%;
+  overflow: hidden;
+  position: relative;
+}
+
+.btn-container {
+  display: flex;
+  text-align: center;
+  width: 10%;
+}
+
+.div-quantity {
+  margin: auto;
+  text-align: center;
+}
+
